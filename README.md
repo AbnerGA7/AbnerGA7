@@ -30,7 +30,7 @@ Estudiante de ingeniería de software del sexto ciclo enfocado en desarrollo web
 
 <p align="center">
   <a href="https://github.com/AbnerGA7">
-    <img src="https://komarev.com/ghpvc/?username=AbnerGA7&color=3a8296&label=Profile%20Views" />
+    <img src="https://komarev.com/ghpvc/?username=AbnerGA7&color=3a8296&label=Vistas%20del%20Perfil" />
   </a>
   <a href="https://github.com/AbnerGA7">
     <img src="https://img.shields.io/github/followers/AbnerGA7?label=GitHub%20Followers&color=3a8296&style=flat" />
@@ -64,14 +64,14 @@ Estudiante de ingeniería de software del sexto ciclo enfocado en desarrollo web
 
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbnerGA7&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=AbnerGA7&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbnerGA7&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&locale=es" height="170em"/>
+<img src="https://streak-stats.demolab.com?user=AbnerGA7&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB&locale=es" height="170em"/>
 
 ---
 
 ### 🧩 Lenguajes Más Usados
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerGA7&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerGA7&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Lenguajes%20Más%20Usados&locale=es" height="170em"/>
 
 ---
 
