@@ -42,7 +42,10 @@ Estudiante de ingeniería de software del sexto ciclo enfocado en desarrollo web
 ### 🧠 Habilidades (Skills)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sqlserver,angular,nodejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs&theme=light" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   </a>
 </p>
 
