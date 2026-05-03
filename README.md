@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hola,%20soy%20Abner%20Gonzales&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Estudiante%20de%20Ing.%20de%20Software&descSize=27&descAlignY=85&section=header" />
 
-Estudiante de ingeniería de software del sexto ciclo enfocado en desarrollo web (HTML, CSS, base de datos SQL y un poco de JavaScript).
+Estudiante de ingeniería de software del septimo ciclo enfocado en desarrollo web (HTML, CSS, base de datos SQL y un poco de JavaScript).
 
 💡 *“Si puedes soñarlo puedes programarlo”*
 
