@@ -144,11 +144,15 @@ Construyo sistemas web y aplicaciones móviles que hoy se usan en negocios reale
   <img src="https://streak-stats.demolab.com?user=AbnerGA7&locale=es&mode=daily&theme=radical&background=0b1a20&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&hide_border=false&border_radius=5" height="150" alt="racha de contribuciones" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbnerGA7/AbnerGA7/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbnerGA7/AbnerGA7/pacman-output/pacman-contribution-graph.svg">
-  <img alt="gráfico de contribuciones estilo Pac-Man" src="https://raw.githubusercontent.com/AbnerGA7/AbnerGA7/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbnerGA7&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0b1a20&border_color=1f3a44&locale=es&include_all_commits=true&count_private=true" height="150" alt="estadísticas de GitHub" />
+  <br /><br />
+  <img src="https://ghchart.rshah.org/3a8296/AbnerGA7" width="100%" alt="mapa de contribuciones" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbnerGA7&color=3a8296&style=flat-square&label=Visitas%20al%20perfil" alt="visitas al perfil" />
+</p>
 
 <div align="center">
   <br />
