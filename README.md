@@ -194,9 +194,9 @@ Offline-first: la familia sube fotos y una **IA local hace preguntas de reminisc
 
 <br /><br />
 
-## 🐛 Modo debug
+## 🚀 Deploy Run
 
-<img src="game.svg?v=2" width="100%" alt="Bug Invaders: minijuego animado donde una nave elimina bugs hasta que el build pasa" />
+<img src="deploy-run.svg" width="100%" alt="Deploy Run: un dev corre por el pipeline saltando bugs, junta café y commits, y despliega a producción" />
 
 <br /><br />
 
