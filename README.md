@@ -1,160 +1,211 @@
 <div align="center">
-  <img src="header.svg?v=1" alt="Abner Gonzales, Analista Programador y Full Stack & Mobile Developer" width="100%" />
-</div>
+
+<img src="header.svg?v=2" alt="Abner Gonzales, Analista Programador y Full Stack & Mobile Developer" width="100%" />
+
+<a href="https://abnergonzales.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&width=620&lines=Apps+reales+para+negocios+reales+%F0%9F%9A%80;Full+Stack+%C2%B7+Mobile+%C2%B7+IA+on-device;React+%C2%B7+Firebase+%C2%B7+Kotlin+%C2%B7+Flutter;Disponible+para+proyectos+freelance+%E2%9C%A8" alt="Apps reales para negocios reales" />
+</a>
+
+<br /><br />
+
+<a href="https://abnergonzales.dev"><img src="https://img.shields.io/badge/Portafolio-0b1a20?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/abnergonzales7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:abner.gonzales.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/51904100380"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://abnergonzales.dev/documents/cv-abner-gonzales.pdf"><img src="https://img.shields.io/badge/Descargar%20CV-3a8296?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
+
+<br /><br />
+
+<img src="divider.svg" width="100%" alt="" />
+
+## 👨‍💻 Sobre mí
+
+Construyo **sistemas web y apps móviles que hoy se usan en negocios reales**:<br />
+punto de venta, gestión de lotes, e-commerce y apps Android.
+
+🎓 Analista Programador titulado · **Universidad Autónoma del Perú**<br />
+🏆 Finalista del **Autónoma Challenge 2026**<br />
+📍 Lima, Perú · 💼 Desarrollo freelance de apps para negocios
+
+<img src="https://img.shields.io/badge/🟢%20Disponible%20para%20proyectos%20freelance-0b1a20?style=for-the-badge" alt="Disponible para proyectos freelance" />
+
+<img src="divider.svg" width="100%" alt="" />
+
+## 🛠️ Tecnologías
+
+<sub><b>FRONTEND</b></sub><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,vite,figma&perline=10" alt="Frontend" />
+
+<sub><b>BACKEND & BASES DE DATOS</b></sub><br />
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mysql,dotnet,cs,py&perline=10" alt="Backend" />
+<br />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+
+<sub><b>MÓVIL, IA & GAME DEV</b></sub><br />
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,unity&perline=10" alt="Móvil" />
+<br />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
+
+<sub><b>HERRAMIENTAS & DESPLIEGUE</b></sub><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,netlify&perline=10" alt="Herramientas" />
+
+<img src="divider.svg" width="100%" alt="" />
+
+## 💼 Experiencia
+
+<table>
+<tr>
+<td align="center" width="900">
+
+**🏢 Corporation G&M Fabian S.A.C.**<br />
+<sub>Soporte de Software · Enero 2025 – Mayo 2026</sub>
+
+🖥️ Soporte técnico integral en hardware y software para la continuidad operativa<br />
+🗄️ Gestión y optimización de bases de datos SQL para reportes<br />
+📦 Sistemas y módulos web internos para inventarios y flujos de información
+
+</td>
+</tr>
+</table>
+
+<img src="divider.svg" width="100%" alt="" />
+
+## 🚀 Proyectos destacados
+
+#### 💰 FREELANCE
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 🏘️ Las Torres
+<sub>Gestión inmobiliaria</sub>
+
+Venta de lotes con **mapa interactivo en tiempo real**, clientes, asesores y cuotas. Avisos automáticos por WhatsApp (API de Meta) y reportes en Excel/PDF.
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" /> <img src="https://img.shields.io/badge/Tailwind-0b1a20?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
+
+[**🔗 Demo**](https://lastorres.abnergonzales.dev)
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 🛒 Smart Market Pro
+<sub>POS e inventario</sub>
+
+Plataforma serverless para minimarkets: **punto de venta, caja, staff por roles** y métricas en vivo. Alertas de vencimiento y consulta de DNI (RENIEC).
+
+<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/Firestore-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firestore" />
+
+[**🔗 Ver**](https://smartmarket.abnergonzales.dev)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 🌵 Admin Cactus
+<sub>Gestión de lotes · G&M Corporation</sub>
+
+Plano interactivo, pagos y cuotas, devoluciones, **alertas de mora** y usuarios con roles. Dashboard ejecutivo con reportes PDF y Excel.
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" /> <img src="https://img.shields.io/badge/Recharts-0b1a20?style=flat-square&logo=chartdotjs&logoColor=FF6384" alt="Recharts" />
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 📱 Bella Market Mobile
+<sub>App POS Android</sub>
+
+App nativa para cajeros y administradores, **optimizada para tablets**, con sincronización en tiempo real con Firestore.
+
+<img src="https://img.shields.io/badge/Kotlin-1a1a1a?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" /> <img src="https://img.shields.io/badge/Jetpack-1a1a1a?style=flat-square&logo=android&logoColor=3DDC84" alt="Jetpack" /> <img src="https://img.shields.io/badge/Material-1a1a1a?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design" />
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### 🛍️ GCorp Store
+<sub>E-commerce</sub>
+
+Tienda desacoplada con **Headless CMS (Sanity)**, carrito con Context API y pedidos por WhatsApp.
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" /> <img src="https://img.shields.io/badge/Sanity-1a1a1a?style=flat-square&logo=sanity&logoColor=F03E2F" alt="Sanity" /> <img src="https://img.shields.io/badge/Framer%20Motion-1a1a1a?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+
+[**🔗 Demo**](https://gcorpstore.abnergonzales.dev) · [**💻 Código**](https://github.com/AbnerGA7/GCorpStoreFull-stack)
+
+</td>
+</tr>
+</table>
+
+#### 🧪 PERSONALES
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 💪 Vitalis
+<sub>Fitness con IA local</sub>
+
+Asistente con **Gemma corriendo en el teléfono**, chat de voz y 100% offline. 112 pruebas automatizadas, incluidas de accesibilidad.
+
+<img src="https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-1a1a1a?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" /> <img src="https://img.shields.io/badge/Riverpod-1a1a1a?style=flat-square" alt="Riverpod" />
+
+[**💻 Código**](https://github.com/AbnerGA7/vitalis)
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 🧠 Memoria Viva
+<sub>IA para adultos mayores · en desarrollo</sub>
+
+Offline-first: la familia sube fotos y una **IA local hace preguntas de reminiscencia por voz**.
+
+<img src="https://img.shields.io/badge/Kotlin-1a1a1a?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" /> <img src="https://img.shields.io/badge/Compose-1a1a1a?style=flat-square&logo=jetpackcompose&logoColor=4285F4" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🎓 Ver proyectos universitarios</b></summary>
+<br />
+
+| Proyecto | Descripción | Stack |
+|:---:|:---|:---:|
+| 🐾 **RescueMal** | App de rescate y adopción animal con geolocalización, albergues y panel con métricas *(equipo)* | Kotlin · Java · Firebase |
+| 🎮 **La Nota Final** | Juego 3D de sigilo estilo PS1: infíltrate de noche en la universidad por los exámenes *(equipo)* | Unity 3D · C# |
+| ✍️ **[MNIST Android](https://github.com/AbnerGA7/caso1-mnist-android)** | Reconoce dígitos escritos a mano sin Internet con una CNN en TensorFlow Lite | Kotlin · TFLite · Python |
+| 🐶 **VetWeb** | Sistema para la Veterinaria Cartagena: doctores, pacientes, citas y reportes | .NET · C# · SQL Server |
+
+</details>
 
 <br />
 
-<p align="center">
-  <a href="https://abnergonzales.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Portafolio-0b1a20?style=flat-square&logo=googlechrome&logoColor=61DAFB" alt="Portafolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/abnergonzales7" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abner.gonzales.work@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/51904100380" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://abnergonzales.dev/documents/cv-abner-gonzales.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Descargar%20CV-3a8296?style=flat-square&logo=readdotcv&logoColor=white" alt="CV" />
-  </a>
-</p>
+<a href="https://abnergonzales.dev"><img src="https://img.shields.io/badge/👉%20Todos%20mis%20proyectos%20con%20capturas-abnergonzales.dev-61DAFB?style=for-the-badge&labelColor=0b1a20" alt="Todos mis proyectos en abnergonzales.dev" /></a>
 
----
+<img src="divider.svg" width="100%" alt="" />
 
-## Actualmente
+## 📊 Actividad
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=AbnerGA7&locale=es&mode=daily&theme=radical&background=0b1a20&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&stroke=1f3a44&border=1f3a44&border_radius=12" height="165" alt="Racha de contribuciones" />
 
-### Analista Programador · Full Stack & Mobile Developer
-**Desarrollo freelance de apps para negocios**
+<br /><br />
 
-Construyo sistemas web y aplicaciones móviles que hoy se usan en negocios reales: punto de venta, gestión de lotes, e-commerce y apps Android. Analista Programador titulado por la Universidad Autónoma del Perú y finalista del **Autónoma Challenge 2026**.
+## 👾 Player 1 ready
 
-<img src="https://img.shields.io/badge/Disponible%20para%20proyectos%20freelance-0b1a20?style=for-the-badge&logoColor=61DAFB" alt="disponible" />
+<img src="game.svg?v=1" width="100%" alt="Minijuego animado estilo Space Invaders" />
 
-</div>
+<br /><br />
 
-## Tecnologías
+<img src="https://komarev.com/ghpvc/?username=AbnerGA7&color=3a8296&style=for-the-badge&label=VISITAS" alt="Visitas al perfil" />
 
-**Frontend**
+<br /><br />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,vite,figma" height="45" />
-</p>
+<sub>Hecho con 💙 desde Lima, Perú · Analista Programador · Estudiante de Ingeniería de Software</sub>
 
-**Backend & Bases de datos**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:61dafb&height=110&section=footer" width="100%" alt="" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mysql,dotnet,cs,py" height="45" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="45" />
-</p>
-
-**Móvil, IA & Game Dev**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,unity" height="45" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="45" />
-</p>
-
-**Herramientas & Despliegue**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,netlify" height="45" />
-</p>
-
----
-
-## Experiencia
-
-**Corporation G&M Fabian S.A.C.** — Soporte de Software · *Enero 2025 – Mayo 2026*
-- Soporte técnico integral en hardware y software, garantizando la continuidad operativa y la atención a usuarios.
-- Gestión y optimización de bases de datos relacionales con SQL para la generación de reportes.
-- Desarrollo de sistemas y módulos web internos para el control de inventarios y los flujos de información.
-
----
-
-## Proyectos destacados
-
-### Freelance
-
-**Las Torres** — Gestión inmobiliaria · [Demo](https://lastorres.abnergonzales.dev)
-- Sistema de venta de lotes con mapa interactivo del estado de cada terreno en tiempo real, clientes, asesores y cuotas.
-- Notificaciones automáticas por WhatsApp (API de Meta), dashboard con Recharts y reportes en Excel y PDF.
-- Stack: React + Firebase + Tailwind CSS.
-
-**Smart Market Pro** — POS e inventario · [Ver](https://smartmarket.abnergonzales.dev)
-- Plataforma serverless para minimarkets: punto de venta, gestión de caja, staff por roles y métricas en vivo.
-- Alertas de vencimiento de productos y consulta de DNI (RENIEC) mediante una función serverless.
-- Stack: JavaScript + Firebase Firestore.
-
-**Admin Cactus** — Gestión de lotes para G&M Corporation
-- Sistema interno con plano interactivo, clientes, pagos y cuotas, devoluciones, alertas de mora y usuarios con roles.
-- Dashboard ejecutivo en tiempo real con reportes en PDF y Excel.
-- Stack: React + Firebase + Recharts.
-
-**Bella Market Mobile** — App POS Android
-- App nativa para cajeros y administradores, optimizada para tablets, con sincronización en tiempo real con Firestore.
-- Stack: Kotlin + Android Jetpack + Material Design.
-
-**GCorp Store** — E-commerce · [Demo](https://gcorpstore.abnergonzales.dev) · [Código](https://github.com/AbnerGA7/GCorpStoreFull-stack)
-- Tienda desacoplada con Headless CMS (Sanity), carrito con Context API y pedidos por WhatsApp.
-- Stack: React + Vite + Sanity + Tailwind CSS + Framer Motion.
-
-### Universitarios
-
-**RescueMal** — App de rescate y adopción animal *(proyecto en equipo)*
-- App Android con geolocalización y rutas para rescatistas en Google Maps, alineada con los ODS.
-- Firebase (Firestore y Storage), adopciones, albergues afiliados y panel administrativo con métricas.
-- Stack: Kotlin + Java + Firebase.
-
-**La Nota Final** — Videojuego 3D *(proyecto en equipo)*
-- Juego de sigilo con estética PS1: un estudiante se infiltra de noche en la universidad para recuperar los exámenes.
-- Stack: Unity 3D + C#.
-
-**Reconocedor de dígitos MNIST** — IA en Android · [APK y código](https://github.com/AbnerGA7/caso1-mnist-android)
-- App que reconoce dígitos escritos a mano sin Internet, con una CNN entrenada en Python y convertida a TensorFlow Lite.
-- Stack: Kotlin + TensorFlow Lite + Python.
-
-**Sistema Veterinario VetWeb**
-- Sistema de gestión para la Veterinaria Cartagena: usuarios, doctores, pacientes, citas y reportes.
-- Stack: .NET (ASPX) + C# + SQL Server.
-
-### Personales
-
-**Vitalis** — Fitness con IA local · [Código](https://github.com/AbnerGA7/vitalis)
-- App privada y accesible con un asistente que ejecuta un modelo de IA (Gemma) en el teléfono, chat de voz y 100% offline.
-- 112 pruebas automatizadas, incluidas pruebas de accesibilidad.
-- Stack: Flutter + Dart + Riverpod.
-
-**Memoria Viva** — Acompañante con IA para adultos mayores *(en desarrollo)*
-- App offline-first: la familia sube fotos con Supabase y una IA local hace preguntas de reminiscencia por voz.
-- Stack: Kotlin + Jetpack Compose + Supabase + MediaPipe LLM.
-
-👉 Todos mis proyectos con capturas en **[abnergonzales.dev](https://abnergonzales.dev)**
-
----
-
-## Actividad
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbnerGA7&locale=es&mode=daily&theme=radical&background=0b1a20&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&hide_border=false&border_radius=5" height="150" alt="racha de contribuciones" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbnerGA7&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0b1a20&border_color=1f3a44&locale=es&include_all_commits=true&count_private=true" height="150" alt="estadísticas de GitHub" />
-  <br /><br />
-  <img src="https://ghchart.rshah.org/3a8296/AbnerGA7" width="100%" alt="mapa de contribuciones" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbnerGA7&color=3a8296&style=flat-square&label=Visitas%20al%20perfil" alt="visitas al perfil" />
-</p>
-
-<div align="center">
-  <br />
-  <sub>Analista Programador · Estudiante de Ingeniería de Software · Universidad Autónoma del Perú · Lima, Perú</sub>
 </div>
