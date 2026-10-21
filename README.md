@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg?v=2" alt="Abner Gonzales, Analista Programador y Full Stack & Mobile Developer" width="100%" />
+<img src="header.svg?v=3" alt="Abner Gonzales, Analista Programador y Full Stack & Mobile Developer" width="100%" />
 
 <a href="https://abnergonzales.dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&width=620&lines=Apps+reales+para+negocios+reales+%F0%9F%9A%80;Full+Stack+%C2%B7+Mobile+%C2%B7+IA+on-device;React+%C2%B7+Firebase+%C2%B7+Kotlin+%C2%B7+Flutter;Disponible+para+proyectos+freelance+%E2%9C%A8" alt="Apps reales para negocios reales" />
