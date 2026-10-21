@@ -194,9 +194,9 @@ Offline-first: la familia sube fotos y una **IA local hace preguntas de reminisc
 
 <br /><br />
 
-## 👾 Player 1 ready
+## 🐛 Modo debug
 
-<img src="game.svg?v=1" width="100%" alt="Minijuego animado estilo Space Invaders" />
+<img src="game.svg?v=2" width="100%" alt="Bug Invaders: minijuego animado donde una nave elimina bugs hasta que el build pasa" />
 
 <br /><br />
 
